@@ -3,16 +3,15 @@ baseurl: ""
 url: "https://leetaekyun.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: 태균블로그                                    # site's title
-description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
+title: 태균 개발 블로그                                    # site's title
+description: "코딩코딩코딩 내꿈은 개발왕!"      # used by search engines
+avatar: https://avatars1.githubusercontent.com/u/16932863?s=400&u=8aa84a02c7a4b3723a18f20d4a3a1e660bf7ae91&v=4                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
-header_feature_image: assets/img/pexels/triangular.jpeg
+header_text:  # Change Blog header text
+header_feature_image: assets/img/header-img.jpg
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
