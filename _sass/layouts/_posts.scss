@@ -46,18 +46,22 @@ header {
 }
 
 .meta {
-  color: $meta; // rgba($text-color, .65);
+  //color: $meta; // rgba($text-color, .65);
+  color: $meta-oran;
   letter-spacing: 0.1em;
   margin: 0;
   text-transform: uppercase;
 }
-
+.span-date{
+  font-size:11px;
+}
 /* --- Post info --- */
 .post-info {
   /* For border in author
   border: 1px solid $border-color;
   padding-left: 0.5em;
   */
+  margin-top:25px;
   border-radius: 1em;
   padding-right: 0.5em;
   display: inline-flex;
