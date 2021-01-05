@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Feature images
+title: 이번건은 그림입니다!!
 feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg"
 tags: [Test, Lorem]
 ---
-
+이번건은 그림입니다!!
 Hopefully you will find enough information about how to set images in your blog here.
 This is an example of a post which includes a feature image specified in the front matter of the post. 
 The feature image spans the full-width of the page, and is shown with the title on permalink pages:
@@ -15,8 +15,7 @@ feature-img: "assets/img/feature-img/desk-messy.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/desk-messy.jpeg" 
 ```
 
-You can also use a thumbnail, a smaller version of the same image to improve loading of the page.
-The thumbnail will also be used when you share your article on other platform (linkedin, whatsapp, facebook, ...).
+
 
 >  - And now it is working
 

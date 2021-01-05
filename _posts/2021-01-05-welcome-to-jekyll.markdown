@@ -5,7 +5,7 @@ date:   2021-01-05 18:28:46 +0900
 categories: jekyll update
 author: Taekyun
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+안녕하세요 첫번째업로드인데.. `_posts` 잘하는건지 잘모르겠네요!! `jekyll serve`, 2021년도 알차게보내요!
 
 Jekyll requires blog post files to be named according to the following format:
 

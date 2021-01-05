@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Color Post
+title: 컬러포스트도 놓지지않습니다!!
 tags: [Test, Color, Markdown]
 color: brown
 author: sylhare
